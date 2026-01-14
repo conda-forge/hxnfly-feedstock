@@ -148,6 +148,3 @@ Feedstock Maintainers
 * [@kbeeperez](https://github.com/kbeeperez/)
 * [@mrakitin](https://github.com/mrakitin/)
 
-
-<!-- dummy commit to enable rerendering -->
-
